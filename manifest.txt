@@ -1,1 +1,6 @@
-
+rivals_skin_icons/1011.png
+rivals_skin_icons/1011100.png
+rivals_skin_icons/1061.png
+rivals_skin_icons/1061304.png
+rivals_hero_icons/1011.png
+rivals_hero_icons/1061.png
