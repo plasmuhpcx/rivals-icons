@@ -742,6 +742,16 @@ rivals_skin_icons/1020310.png
 rivals_skin_icons/1039510.png
 rivals_skin_icons/1047506.png
 rivals_skin_icons/1055504.png
+rivals_skin_icons/1023309.png
+rivals_skin_icons/1024503.png
+rivals_skin_icons/1038804.png
+rivals_skin_icons/1038806.png
+rivals_skin_icons/1038807.png
+rivals_skin_icons/1040304.png
+rivals_skin_icons/1050508.png
+rivals_skin_icons/1050509.png
+rivals_skin_icons/1050510.png
+rivals_skin_icons/1057801.png
 rivals_hero_icons/1011.png
 rivals_hero_icons/1014.png
 rivals_hero_icons/1015.png
