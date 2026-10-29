@@ -160,6 +160,11 @@ rivals_skin_icons/1025308.png
 rivals_skin_icons/1025309.png
 rivals_skin_icons/1025500.png
 rivals_skin_icons/1025501.png
+rivals_skin_icons/1015800.png
+rivals_skin_icons/1034802.png
+rivals_skin_icons/1041306.png
+rivals_skin_icons/1041307.png
+rivals_skin_icons/1041308.png
 rivals_skin_icons/1026.png
 rivals_skin_icons/1026100.png
 rivals_skin_icons/1026101.png
