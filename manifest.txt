@@ -10,6 +10,8 @@ rivals_skin_icons/1014.png
 rivals_skin_icons/1014100.png
 rivals_skin_icons/1014300.png
 rivals_skin_icons/1014301.png
+rivals_skin_icons/1036803.png
+rivals_skin_icons/1051506.png
 rivals_skin_icons/1014302.png
 rivals_skin_icons/1014500.png
 rivals_skin_icons/1014501.png
